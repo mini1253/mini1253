@@ -1,6 +1,8 @@
 <h3>Welcome to my page!</h3>
 <h5>I'm Minhee. Nice to see you.</h5>
+<p>I'm studying hard with the goal of becoming a front-end developer.</p>
 
+<br>
 
 <h4>🛠Skills</h4>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/149662647584146f2b62ec0f656c023455f1edfcff7094e185e9474858e88b23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/149662647584146f2b62ec0f656c023455f1edfcff7094e185e9474858e88b23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
