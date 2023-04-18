@@ -1,5 +1,5 @@
-<h3>Welcome to my page!</h3>
-<h5>I'm Minhee. Nice to see you.</h5>
+<h2>Welcome to my page!</h2>
+<p>I'm Minhee. Nice to see you.</p>
 <p>I'm studying hard with the goal of becoming a front-end developer.</p>
 
 <br>
